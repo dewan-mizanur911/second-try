@@ -5,6 +5,10 @@ h1{
     border: 2px solid;
     border-radius: 5px;
 }
+h2{
+    text-align: center;
+    color: brown;
+}
 .wrapper{
     width: 60%;
     margin: 0 auto;
